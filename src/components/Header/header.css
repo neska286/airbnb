@@ -1,0 +1,29 @@
+section{
+    padding: 26px;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.header-title{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+color: #000000;
+}
+.header-desc{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+color: #222222;
+}
+.header-img{
+    max-width: 400px;
+    align-self: center;
+}
